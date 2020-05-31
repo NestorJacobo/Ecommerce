@@ -1,0 +1,61 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22/03/2020, 09:41:00 AM
+    Author     : User
+*/
+
+body{
+    background: #FFF;
+}
+
+#containerLogin{
+    width: 380px;
+    margin-top: 10px;
+    background: #F2F3F4;
+                
+}
+#cont_img_login{
+    width: 200px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    
+}
+
+#form_login{
+    margin-top: 30px;
+ 
+   
+}
+#boton_login{
+    width: 100%;
+    height: 45px;
+    margin-bottom: 20px;
+}
+
+
+/*////////////////////////////////// REGISTRO ////////////////////////////*/
+
+#containerRegistro{
+     width: 500px;
+    margin-top: 10px;
+    background: #EAEDED;
+    margin-bottom: 30px;
+}
+
+
+#boton_cancelar_registrar{
+    width: 30%;
+    margin-left: 10%;
+    margin-bottom: 20px;
+    
+}
+
+#cont_img_registro{
+    width: 10px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
